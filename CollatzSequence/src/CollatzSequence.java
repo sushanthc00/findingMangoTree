@@ -8,6 +8,7 @@ public class CollatzSequence {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number:  ");
         n=sc.nextInt();
+        System.out.println(n);
 
         while (n>1){
 
